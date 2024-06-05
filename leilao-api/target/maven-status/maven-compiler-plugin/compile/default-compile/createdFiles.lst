@@ -1,0 +1,6 @@
+br/com/selecao/locadora/entity/Unidade$UnidadeBuilder.class
+br/com/selecao/locadora/LeilaoApplication.class
+br/com/selecao/locadora/service/UnidadeService.class
+br/com/selecao/locadora/repository/UnidadeRepository.class
+br/com/selecao/locadora/business/UnidadeBO.class
+br/com/selecao/locadora/entity/Unidade.class
